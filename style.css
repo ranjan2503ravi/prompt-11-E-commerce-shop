@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contener{
+    width: 95%;
+    height: 95%;
+    background-color:rgba(0, 0, 0, 0.295);
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1{
+    width: 45%;
+    height: 98%;
+    background-color: white;
+    margin-left: 10px;
+    background-image: url(daniil-unsplash\ \(2\).jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.box2{
+    width: 45%;
+    height: 98%;
+    background-color: rgba(0, 0, 0, 0.411);
+    margin: 0px 15px;
+}
+.box3{
+    width: 45%;
+    height: 98%;
+    background-color: rgba(255, 255, 255, 0.616);
+    margin-right: 10px;
+}
+.nav{
+    display: flex;
+    margin: 40px;
+}
+.f{
+    font-weight: 900;
+margin-right: 5px;
+}
+.s{
+    font-weight: 100;
+    color: rgba(0, 0, 0, 0.473);
+}
+.nav i{
+    margin-left: 250px;
+}
+.con-2{
+    margin-top: 370px;
+    margin-left: 130px;
+}
+.con-3{
+    padding-top: 10px;
+   
+}
+.button{
+    color: black;
+}
+.head{
+    font-size: 34px;
+}
+.t{
+    margin-top: 10px;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.575);
+}
+button{
+    color: rgb(197, 14, 14);
+    background-color: rgba(0, 0, 255, 0.61);
+    padding: 10px;
+    width: 150px;
+    border-radius: 9px;
+}
+button:hover{
+    background-color: darkcyan;
+}
+.box2{
+    background-image: url(daniil-unsplash\ \(2\).jpg);
+    background-position: center;
+    background-size: cover;
+}
+.icon i{
+    margin-left: 340px;
+    margin-top: 50px;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.61);
+}
+.con-4{
+    margin-left: 45px;
+    margin-top: 35px;
+  
+}
+.f{
+    margin-top: 10px;
+    color: rgba(0, 0, 0, 0.521);
+    text-transform: capitalize;
+    line-height: 25px;
+}
+.mm{
+    width: 100%;
+    height: 49%;
+    background-color: rgba(255, 255, 255, 0.582);
+}
+.mm2{
+    width: 100%;
+    height: 40%;
+    background-color: white;
+}
+.box5{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    background-image: url(istockphoto-1205633394-2048x2048.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.box6{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 0, 55);
+    background-image: url(istockphoto-1205633429-2048x2048.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: 10px 0px;
+}
+.box7{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(78, 4, 4);
+    background-image: url(istockphoto-506338312-2048x2048.jpg);
+    background-position: center;
+    background-size: cover;
+}
